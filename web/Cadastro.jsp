@@ -8,12 +8,9 @@
     <body>
         <div align="center"><img src="FAlogo.jpg" width="350" height="125"></div>
         <form name="frm" method="get" action="BemVindo.jsp">
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tr>
-                    <td width="5%">&nbsp;</td>
-                </tr>
-                
-                Cadastre-se já
+             <table p align="center" width="20%" border="2" cellspacing="3" cellpadding="3" bgcolor="#ADD8E6">
+               
+               <div align="center"> <h2> Cadastre-se já</h2> 
                 <tr>
                     <td>Nome: </td>
                     <td><input type="text" name="nome"></td>
@@ -35,12 +32,10 @@
                     <td><input type="date" name="datanasc"></td>
                 </tr>
                 <tr>
-                    <td><a href="BemVindo.jsp"><input type="submit" value="Acessar"></a></td>
+                   <td>&nbsp;</td>
+                   <p align="center"> <td><a href="BemVindo.jsp"><input type="submit" value="Acessar"></a></td></p>
                 </tr>
-                <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                </tr>
+               
             </table>
         </form>
     </body>

@@ -7,6 +7,8 @@
 
         <div align="center"><a href="Login.jsp"><input type="submit" value="Entrar"></a>
         <a href="Cadastro.jsp"><input type="submit" value="Cadastre-se"></a></div>
-
+<br>
+        <a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center">Facebook FriendsAround</a></p>
+<a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center"><img src="face.png" width="100" height="70"></p></a>
     </body>
 </html>
