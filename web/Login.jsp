@@ -9,7 +9,7 @@
         <div align="center"><img src="FAlogo.jpg" width="350" height="125"></div>
        <div align="center"> <h2>Login</h2>
     <form p align="center" name="frm" method="get" action="BemVindo.jsp">
-            <table p align="center" width="20%" border="2" cellspacing="0" cellpadding="3" bgcolor="#ADD8E6">
+            <table p align="center" width="20%" border="0" cellspacing="0" cellpadding="3" >
                
                 <tr>
                     <td><b>Nome: </td>
@@ -35,6 +35,6 @@
 <br>
 
 <a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center">Facebook FriendsAround</a></p>
-<a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center"><img src="face.png" width="100" height="70"></p></a>
+<a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center"><img src="face.jpg" width="100" height="70"></p></a>
 </body>
 </html>

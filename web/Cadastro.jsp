@@ -7,8 +7,7 @@
     </head>
     <body>
         <div align="center"><img src="FAlogo.jpg" width="350" height="125"></div>
-        <form name="frm" method="get" action="BemVindo.jsp">
-             <table p align="center" width="20%" border="2" cellspacing="3" cellpadding="3" bgcolor="#ADD8E6">
+        <table p align="center" width="20%" border="0" cellspacing="3" cellpadding="3" >
                
                <div align="center"> <h2> Cadastre-se já</h2> 
                 <tr>
@@ -33,7 +32,7 @@
                 </tr>
                 <tr>
                    <td>&nbsp;</td>
-                   <p align="center"> <td><a href="BemVindo.jsp"><input type="submit" value="Acessar"></a></td></p>
+                   <p align="center"> <td><a href="gravar.jsp"><input type="submit" value="Acessar"></a></td></p>
                 </tr>
                
             </table>

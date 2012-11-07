@@ -12,7 +12,7 @@
             <table p align="center" width="20%" border="0" cellspacing="0" cellpadding="3" >
                <tr>
                     <td>Bem vindo ao Friends Around, </td>
-                    <td><%=request.getParameter("nome")%>!</td>
+                    <td><b><%=request.getParameter("nome")%>!</b></td>
                 </tr>
 </table>
             

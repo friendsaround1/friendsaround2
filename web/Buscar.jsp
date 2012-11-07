@@ -70,5 +70,15 @@
         <input type="button" name="enviar" id="enviar" value="Mostrar Latitude/Longitude" onclick="mostraEndereco()"/>   
     </form>  
 
+    
+    
+    
+    <br>    
+<br>
+<br>
+
+<a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center">Facebook FriendsAround</a></p>
+<a href="http://www.facebook.com/appfriendsaround?ref=hl"><p align="center"><img src="face.jpg" width="100" height="70"></p></a>
+    
 </body>
 </html>
