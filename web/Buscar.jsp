@@ -1,9 +1,3 @@
-<%-- 
-    Document   : Buscar
-    Created on : 07/09/2012, 16:50:59
-    Author     : Usuario
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -33,7 +27,7 @@
                         return marker;
                     }
                     var point = new GLatLng(-23.547150, -46.651518);
-                    var address = '<b>MADAGASCAR</b><br/><i>Centro de Madagascar</i><br /><a href="http://www.centrodemadagascar.com">Web del Centro de Madagascar</a>';
+                    var address = 'Rua Itambé São Paulo';
                     var marker = addtag(point, address);
                     map.addOverlay(marker);     
                 }   
